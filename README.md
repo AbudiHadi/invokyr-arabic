@@ -6,13 +6,19 @@
 
 ### [⬇ حمّل التعريب — النسخة اليدوية (40 ميجابايت)](https://github.com/AbudiHadi/invokyr-arabic/raw/main/download/Invokyr-Arabic.zip)
 
-<sub>الإصدار 1.0.0 • لنسخة Steam رقم البناء 26154962 • كل الإصدارات: [صفحة Releases](https://github.com/AbudiHadi/invokyr-arabic/releases/latest)</sub>
+<sub>الإصدار 1.0.1 • لنسخة Steam رقم البناء 26412219 • كل الإصدارات: [صفحة Releases](https://github.com/AbudiHadi/invokyr-arabic/releases/latest)</sub>
 
 [English below ↓](#english)
 
 </div>
 
 ---
+
+## ما الجديد في 1.0.1
+
+- متوافق مع آخر تحديث للعبة على Steam (رقم البناء 26412219).
+- تعريب النصوص الجديدة في التحديث: مذكرات شارلوت ومارغريت الجديدة، إعلانات لوحات الأدغال والجليد والصحراء، ألغاز إدموند وتوماس، المفاتيح والجعران الذهبي، ألقاب ونتائج جديدة في لوحة النتائج، قواعد منزل جديدة، وخيارات الصور.
+- ملاحظة: تغيرت أسماء ثلاثة من ملفات الخطوط في هذا التحديث (القائمة في خطوات التثبيت).
 
 ## ما الجديد في 1.0.0
 
@@ -46,7 +52,7 @@
 
 | | |
 |---|---|
-| اللعبة | Invokyr على Steam (نسخة الكمبيوتر) — رقم البناء **26154962** |
+| اللعبة | Invokyr على Steam (نسخة الكمبيوتر) — رقم البناء **26412219** |
 | برامج | لا شيء — تنسخ الملفات فقط |
 
 ---
@@ -61,9 +67,9 @@
 4. **نسخة احتياطية (مستحسنة):** انسخ هذه الملفات الأصلية إلى مكان آمن خارج مجلد اللعبة:
    - `Invokyr_Data/resources.assets`
    - `Invokyr_Data/StreamingAssets/aa/catalog.bin`
-   - `Invokyr_Data/StreamingAssets/aa/StandaloneWindows64/3c0f812934fb65319b179c19c37da876.bundle`
-   - `Invokyr_Data/StreamingAssets/aa/StandaloneWindows64/94f5cbc56a29484fd8f1ff8350d2de5e.bundle`
-   - `Invokyr_Data/StreamingAssets/aa/StandaloneWindows64/29266b395929f9bae15cb478f40a2e4c.bundle`
+   - `Invokyr_Data/StreamingAssets/aa/StandaloneWindows64/60651c2dbc10ef905bab93590ff7ac6b.bundle`
+   - `Invokyr_Data/StreamingAssets/aa/StandaloneWindows64/f7c3a4f755e388f7fbe04aec1e799710.bundle`
+   - `Invokyr_Data/StreamingAssets/aa/StandaloneWindows64/8bd48d25285f4b485e6e335fd9e4b66c.bundle`
    - `Invokyr_Data/StreamingAssets/aa/StandaloneWindows64/354a93003dfa0b2c41f2c0db63c621c4.bundle`
 5. **اسحب المجلد `Invokyr_Data`** من الملف المضغوط وأفلته داخل مجلد اللعبة (حيث يوجد `Invokyr.exe`)، ثم اختر
    **«استبدال الملفات في الوجهة» / Replace the files in the destination**.
@@ -91,7 +97,7 @@
 
 عند تحديث اللعبة قد يستبدل Steam بعض الملفات فتعود النصوص للإنجليزية.
 
-- **لا تنسخ ملفات هذا الإصدار على نسخة أحدث من اللعبة:** الملفات مصنوعة لنسخة 26154962، وقد تتعطل اللعبة إن
+- **لا تنسخ ملفات هذا الإصدار على نسخة أحدث من اللعبة:** الملفات مصنوعة لنسخة 26412219، وقد تتعطل اللعبة إن
   اختلطت بملفات تحديث أحدث.
 - بعد التحديث: من Steam زر الفأرة الأيمن على اللعبة ← **Properties** ← **Installed Files** ←
   **Verify integrity of game files**، ثم انتظر إصدارا محدثا من التعريب على هذه الصفحة.
@@ -122,7 +128,7 @@
 <br>
 
 تأكد أنك اخترت **العربية** من الإعدادات ← اللعب ← اللغة، وأنك **استبدلت** الملفات ولم تضف ملفات جديدة بجانبها،
-وأن نسخة لعبتك هي 26154962 (إن حدّثت اللعبة بعد هذا الإصدار، انتظر إصدارا جديدا من التعريب).
+وأن نسخة لعبتك هي 26412219 (إن حدّثت اللعبة بعد هذا الإصدار، انتظر إصدارا جديدا من التعريب).
 
 </details>
 
@@ -143,7 +149,7 @@
 بصمة SHA-256 للملف المضغوط `Invokyr-Arabic.zip`:
 
 ```
-ce8f5583f080065b271ca017c43675e1fc508650c80e2f02e82380802250b2dc
+b8db7262e3f85fcb05b322dd3c113c7e21c5dd5296f851218cb0954f4e261a10
 ```
 
 وداخل الملف المضغوط يوجد `SHA256SUMS.txt` ببصمة كل ملف من ملفات التعريب.
@@ -169,7 +175,7 @@ ce8f5583f080065b271ca017c43675e1fc508650c80e2f02e82380802250b2dc
 **Unofficial Arabic translation of Invokyr (Steam, PC) — by Abdullah Hadi (عبدالله هادي).** All text is translated
 into clear Modern Standard Arabic and drawn right-to-left with joined letters (Almarai font); voices stay English.
 
-**Version 1.0.0 — for Steam build 26154962.** [Download `Invokyr-Arabic.zip` (40 MB)](https://github.com/AbudiHadi/invokyr-arabic/raw/main/download/Invokyr-Arabic.zip)
+**Version 1.0.1 — for Steam build 26412219.** [Download `Invokyr-Arabic.zip` (40 MB)](https://github.com/AbudiHadi/invokyr-arabic/raw/main/download/Invokyr-Arabic.zip)
 
 **Install**
 
@@ -184,10 +190,10 @@ into clear Modern Standard Arabic and drawn right-to-left with joined letters (A
 - To end the game you shout its name into the microphone: say **"Invokyr" in English** (the game recognises the
   English word).
 - Online co-op works as usual; each player sees the language chosen on their own PC.
-- **After a game update:** do not copy these files onto a newer game version (they are made for build 26154962).
+- **After a game update:** do not copy these files onto a newer game version (they only match the game version named above).
   Verify the game files in Steam and wait for an updated release.
 - **Uninstall:** put the backed-up files back, or Steam > Properties > Installed Files > Verify integrity of game files.
-- Zip SHA-256: `ce8f5583f080065b271ca017c43675e1fc508650c80e2f02e82380802250b2dc`
+- Zip SHA-256: `b8db7262e3f85fcb05b322dd3c113c7e21c5dd5296f851218cb0954f4e261a10`
 
 **Credits:** translation by Abdullah Hadi. Not affiliated with the game's developers or publisher; you need your own
 copy of the game. Arabic font: Almarai (The Almarai Project Authors), SIL Open Font License 1.1 — full licence text

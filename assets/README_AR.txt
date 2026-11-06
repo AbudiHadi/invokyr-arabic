@@ -1,6 +1,6 @@
-تعريب إنفوكير (Invokyr) إلى العربية — الإصدار 1.0.0
+تعريب إنفوكير (Invokyr) إلى العربية — الإصدار 1.0.1
 ترجمة: عبدالله هادي
-مخصص لنسخة Steam رقم البناء 26154962
+مخصص لنسخة Steam رقم البناء 26412219
 
 =============================================
      التثبيت (دقيقتان)
@@ -12,9 +12,9 @@
 3) نسخة احتياطية (مستحسنة): انسخ هذه الملفات الأصلية إلى مكان آمن خارج مجلد اللعبة:
      Invokyr_Data\resources.assets
      Invokyr_Data\StreamingAssets\aa\catalog.bin
-     Invokyr_Data\StreamingAssets\aa\StandaloneWindows64\3c0f812934fb65319b179c19c37da876.bundle
-     Invokyr_Data\StreamingAssets\aa\StandaloneWindows64\94f5cbc56a29484fd8f1ff8350d2de5e.bundle
-     Invokyr_Data\StreamingAssets\aa\StandaloneWindows64\29266b395929f9bae15cb478f40a2e4c.bundle
+     Invokyr_Data\StreamingAssets\aa\StandaloneWindows64\60651c2dbc10ef905bab93590ff7ac6b.bundle
+     Invokyr_Data\StreamingAssets\aa\StandaloneWindows64\f7c3a4f755e388f7fbe04aec1e799710.bundle
+     Invokyr_Data\StreamingAssets\aa\StandaloneWindows64\8bd48d25285f4b485e6e335fd9e4b66c.bundle
      Invokyr_Data\StreamingAssets\aa\StandaloneWindows64\354a93003dfa0b2c41f2c0db63c621c4.bundle
 4) اسحب المجلد Invokyr_Data من الملف المضغوط وأفلته داخل مجلد اللعبة،
    ثم اختر «استبدال الملفات في الوجهة» (Replace the files in the destination).
@@ -39,7 +39,7 @@
 =============================================
 
 - عند تحديث اللعبة قد يستبدل Steam بعض الملفات فتعود النصوص للإنجليزية.
-- لا تنسخ ملفات هذا الإصدار على نسخة أحدث من اللعبة: الملفات مصنوعة لنسخة 26154962
+- لا تنسخ ملفات هذا الإصدار على نسخة أحدث من اللعبة: الملفات مصنوعة لنسخة 26412219
   وقد تتعطل اللعبة إن اختلطت بملفات تحديث أحدث.
 - بعد التحديث: من Steam اضغط على اللعبة بالزر الأيمن ← Properties ← Installed Files
   ← Verify integrity of game files، ثم انتظر إصدارا محدثا من التعريب.
